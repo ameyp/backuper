@@ -1,0 +1,3 @@
+** Purpose
+
+The sole purpose of this repository is to create a docker image containing all the tools I need for my regular backups.
