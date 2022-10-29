@@ -28,4 +28,4 @@ jobs:
       run: ./build_docker.sh
 
     - name: Push the docker image
-      run: docker push ameypar/scraparr
+      run: docker push ameypar/backuper
