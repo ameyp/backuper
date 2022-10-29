@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build . -t ameyp/backuper
+docker build . -t ameypar/backuper
