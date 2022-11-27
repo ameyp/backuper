@@ -12,4 +12,4 @@ else
     echo "Detected repository at ${RESTIC_REPOSITORY}"
 fi
 
-restic --verbose backup $1
+restic --verbose backup "$@"
