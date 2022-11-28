@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build . -t ameypar/backuper
+docker build . -t ameypar/backuper --network host
